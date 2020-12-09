@@ -25,6 +25,6 @@ h2 {
 
 #navName {
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 0.09rem;
 }
