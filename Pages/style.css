@@ -1,4 +1,9 @@
 .me-auto {
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 0!important;
+}
+
+.navbar-toggler {
+    color: rgba(255,255,255,.55);
+    border: none;
 }
