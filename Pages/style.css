@@ -14,8 +14,10 @@
 }
 }
 
+/* Background pattern from Toptal Subtle Patterns */
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png")
 }
 
 h2 {
