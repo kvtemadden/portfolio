@@ -22,3 +22,9 @@ h2 {
     font-weight: 700;
     letter-spacing: -0.03rem;
 }
+
+#navName {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.09rem;
+}
