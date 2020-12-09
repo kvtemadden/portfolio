@@ -7,3 +7,9 @@
     color: rgba(255,255,255,.55);
     border: none;
 }
+
+@media (min-width: 576px) {
+.ms-1 {
+    margin-left: 2rem!important;
+}
+}
