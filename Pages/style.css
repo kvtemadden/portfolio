@@ -43,3 +43,7 @@ section {
     padding: 2rem;
     padding-left: 2rem !important;
 }
+
+.form-group {
+    margin-bottom: 1rem;
+}
