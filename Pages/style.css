@@ -73,3 +73,12 @@ section {
 .container {
     margin-bottom: 70px;
 }
+
+/* Square placeholder for images */
+.sq-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid #212529;
+    padding: 8px;
+}
