@@ -82,3 +82,13 @@ h2 {
     padding: 2rem;
     padding-left: 2rem !important;
 }
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.social-logos {
+    height: 20px;
+    margin-right: 5px;
+}
