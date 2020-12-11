@@ -74,10 +74,10 @@ section {
     margin-bottom: 70px;
 }
 
-/* Square placeholder for images */
-.sq-img {
-    width: 100px;
-    height: 100px;
+/* placeholder for images */
+.resize-img {
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border: 3px solid #212529;
     padding: 8px;
