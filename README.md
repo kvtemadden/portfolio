@@ -18,7 +18,7 @@ You can access the site via [this link](https://kvtemadden.github.io/portfolio/)
 And you can access the GitHub Repo via [this link](https://github.com/kvtemadden/portfolio)
 
 ## About Me
-![Screenshot of the About Me page](Assets\AboutMe_screenshot.PNG)
+![Screenshot of the About Me page](Assets/AboutMe_screenshot.PNG)
 
 The content on this page gives a little bit of information about me.
 
@@ -27,14 +27,14 @@ There are also links to my social media accounts, which are accompanied by the l
 You'll see to the right of the text are two images, which are both formatted with a border and height/width to maintain a square until the page is too small. In the case that it is too small, for visibility, the image reduces in width and gains in height.
 
 ## Contact
-![Screenshot of the Contact page](Assets\Contact_screenshot.PNG)
+![Screenshot of the Contact page](Assets/Contact_screenshot.PNG)
 
 The contact page has a form that doesn't currently submit correctly, but after some research I found that the information does actually get sent to the page.
 
 The user will input their name, email and the message they want to send before they click on the bootstrap button "Submit message". At some point I plan to come back to this and set it up correctly, but I'm not entirely sure how to access the server at this point.
 
 ## Portfolio
-![Screenshot of the Portfolio page](Assets\Portfolio_screenshot.PNG)
+![Screenshot of the Portfolio page](Assets/Portfolio_screenshot.PNG)
 
 This part of the site currently only has placeholder images, but don't penalise me for that!
 
