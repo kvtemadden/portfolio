@@ -38,10 +38,12 @@ h2 {
     margin-bottom: 1rem;
 }
 
-#navName {
-    font-weight: 600;
-    text-transform: lowercase;
-    letter-spacing: 0.09rem;
+#logo {
+    height: 40px;
+}
+
+.nav-link.active {
+    border-bottom: 2px solid rgb(218 53 108);
 }
 
 .form-group {
