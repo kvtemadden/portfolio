@@ -186,6 +186,13 @@ ul {
     text-decoration: none;
   }
 
+  .arrow a:hover {
+    color: #fff;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+
   .hu {
       border-bottom: solid 2.5px #db346c;
   }
