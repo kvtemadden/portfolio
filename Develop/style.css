@@ -191,6 +191,10 @@ ul {
     text-decoration: none;
     border-bottom: none;
   }
+  
+  .navbar-brand:hover {
+      border-bottom: none;
+  }
 
 
   .hu {
