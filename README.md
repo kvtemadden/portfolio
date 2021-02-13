@@ -17,10 +17,16 @@ You can access the site via [this link](https://kvtemadden.github.io/portfolio/)
 
 And you can access the GitHub Repo via [this link](https://github.com/kvtemadden/portfolio)
 
+Languages used: jQuery, CSS, HTML, Bootstrap.
+
 ## About Me
 ![Screenshot of the About Me page](Assets/AboutMe_screenshot.PNG)
 
 The content on this page gives a little bit of information about me.
+
+I customised it by adding a hero section to make the page a little bit more interesting.
+
+This section includes my CV, LinkedIn profile and GitHub links too.
 
 There are also links to my social media accounts, which are accompanied by the logos for the particular sites.
 
@@ -36,9 +42,9 @@ The user will input their name, email and the message they want to send before t
 ## Portfolio
 ![Screenshot of the Portfolio page](Assets/Portfolio_screenshot.PNG)
 
-This part of the site currently only has placeholder images, but don't penalise me for that!
+This part of the site has buttons which show the relevant project on click.
 
-Once I've got together some decent projects, I plan to come back and update the images to contain good, quality projects that I wouldn't mind someone finding.
+Similar to an accordian, if any buttons are showing expanded content then they'll close and the new click will open so content isn't pushed down the page and it supports better UX.
 
 I have added a .frame class which adds a frame to the images, similar to those on the about page.
 
@@ -50,9 +56,9 @@ Below are the constant items that are maintained across the site.
 ### Navigation Bar
 The navigation bar is a dark theme, pulled from Bootstrap, and is responsive to device size.
 
-If a user is on a page, the link that links to that page (e.g. if you're on the About page then the About text in the navigation bar) will display in a lighter colour to the other links in the navigation bar.
+If a user is on a page, the link that links to that page (e.g. if you're on the About page then the About text in the navigation bar) will display in a lighter colour to the other links in the navigation bar and display with a border bottom.
 
-I also styled the "Kate" text in the top left so that it looked a little bit different to everything else and acted as a kind of logo.
+I've also added in a logo for my site, which is also shown in the favicon. Clicking the logo will take you back to the index page.
 
 ### Sticky footer
 As a bonus, I took inspiration from the Bootstrap sticky footer bar but I centred the text instead. This is constantly in display on all devices and there is always a 10px gap between the content on the page and the footer when the user scrolls to the bottom of the page.
